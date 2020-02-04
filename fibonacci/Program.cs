@@ -6,7 +6,7 @@ namespace fibonacci
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Serie de Fibonacci.");
+            Console.WriteLine("Serie de Fibonacci");
             int valor1 = 0, valor2 = 1, cantidad, aux;
             Console.Write("Ingresar la cantidad de numero que desea ver de la serie: ");
             cantidad = int.Parse(Console.ReadLine());
